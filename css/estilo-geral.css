@@ -87,6 +87,12 @@ main {
     color: #004b4c;
 }
 
+.link-whatsapp {
+    text-decoration: none;
+    color: #0000008c;
+    font-weight: 600;
+}
+
 @media (max-width: 425px) {
     .topo .container { flex-direction: column; }
     .topo-titulo { margin: 10px 0; }
